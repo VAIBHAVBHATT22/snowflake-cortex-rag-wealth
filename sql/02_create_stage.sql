@@ -1,4 +1,4 @@
--- Create stage for PDF documents.
+-- Create stage for PDF documents
 
 USE DATABASE WEALTH_RAG_DB;
 USE SCHEMA RAG;
