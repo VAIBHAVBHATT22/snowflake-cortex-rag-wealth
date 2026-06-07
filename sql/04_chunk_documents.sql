@@ -1,4 +1,4 @@
--- Example view used after Python chunking process
+-- Example view used after Python chunking process.
 
 CREATE OR REPLACE VIEW CHUNK_STATS AS
 
