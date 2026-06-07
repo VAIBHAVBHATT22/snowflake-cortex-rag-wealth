@@ -1,4 +1,4 @@
--- Generate embeddings for chunks
+-- Generate embeddings for chunks.
 
 INSERT INTO VECTOR_STORE
 (
