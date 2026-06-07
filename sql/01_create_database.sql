@@ -1,4 +1,4 @@
--- Create database and schema
+-- Create database and schema.
 
 CREATE DATABASE IF NOT EXISTS WEALTH_RAG_DB;
 
