@@ -1,4 +1,4 @@
--- Raw extracted documents
+-- Raw extracted documents.
 
 CREATE OR REPLACE TABLE RAW_DOCUMENTS
 (
