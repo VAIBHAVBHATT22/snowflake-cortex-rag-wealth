@@ -1,4 +1,4 @@
--- Generate final answer using retrieved context
+-- Generate final answer using retrieved context.
 
 SET QUESTION =
 'What is the minimum investment amount for Fund A?';
