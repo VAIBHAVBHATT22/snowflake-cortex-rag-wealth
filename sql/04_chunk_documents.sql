@@ -1,0 +1,9 @@
+-- Example view used after Python chunking process
+
+CREATE OR REPLACE VIEW CHUNK_STATS AS
+
+SELECT
+    DOC_NAME,
+    COUNT(*) AS TOTAL_CHUNKS
+FROM DOCUMENT_CHUNKS
+GROUP BY DOC_NAME;
