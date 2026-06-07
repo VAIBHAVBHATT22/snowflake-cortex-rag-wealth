@@ -1,4 +1,4 @@
--- Sample vector similarity search
+-- Sample vector similarity search.
 
 SET QUESTION =
 'What is the minimum investment amount for Fund A?';
